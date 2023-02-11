@@ -6,5 +6,5 @@
 
 <h1> CProgram2 Outputs </h1>
 
-<img src="/Cprogram2/photos/example.png">
+<img src="/Cprogram2/photo/example.png">
 
